@@ -1,4 +1,4 @@
-writings
+Writings
 ========
 
-Place to store some writings
+Just a place to store some writings
